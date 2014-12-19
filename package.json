@@ -1,6 +1,6 @@
 {
   "name": "phormat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "S3 Stream Manager",
   "main": "index.js",
   "scripts": {
