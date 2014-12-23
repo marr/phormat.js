@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/marr/phormat.js",
   "dependencies": {
-    "aws-sdk": "^2.1.4"
+    "aws-sdk": "^2.1.4",
+    "bl": "^0.9.3",
+    "es6-shim": "^0.22.1",
+    "xml-stream": "^0.4.5"
   }
 }
